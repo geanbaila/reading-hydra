@@ -1,0 +1,238 @@
+BEGIN IMS1.0
+MSG_TYPE DATA
+MSG_ID 10000SG3_4 HYDRA_RED
+DATA_TYPE BULLETIN IMS1.0:SHORT
+The following is an UNCHECKED, FULLY AUTOMATIC LOCATION from the USGS/NEIC Hydra System
+Event    33070 
+
+   Date       Time        Err   RMS Latitude Longitude  Smaj  Smin  Az Depth   Err Ndef Nst  Gap  mdist  Mdist Qual   Author      OrigID
+2020/12/02 03:27:14.41   4.18  2.06 -13.0119  -77.3171   9.4   3.9  62   0.0  19.4   19   19 212   0.87  22.74 a i se NEIC         66512
+2020/12/02 03:27:17.25   8.56  4.22 -12.8537  -76.9014   7.1   3.0  59   0.0   9.9   52    0 186   0.46  22.48 a i se NEIC         66511
+
+Magnitude  Err Nsta Author      OrigID
+ML     4.9 0.0   81 NEIC         66512
+mb_Lg  4.3 0.1   49 NEIC         66512
+M      5.3 0.1   89 NEIC         66512
+Mwp    4.5 0.1   21 NEIC         66512
+Ms_BB  4.1 0.1   31 NEIC         66512
+mb     5.6 0.6    1 NEIC         66512
+Md     4.6 0.2    6 NEIC         66512
+mB_BB  5.8 0.6    1 NEIC         66512
+
+Sta     Dist  EvAz Phase        Time      Tres  Azim AzRes   Slow   SRes Def   SNR       Amp   Per Qual Magnitude    ArrID
+CAZU    0.87  83.9 Pg       03:27:31.150   0.1                           T__                       a__            BHZPE--
+CAZU    0.87  83.9 MMwp     03:27:35.369                                 ___          7970.9  4.22 a__ Mwp    4.6 BHZPE--
+CAZU    0.87  83.9 IAmb_Lg  03:27:42.581                                 ___         11525.3  0.98 a__ mb_Lg  4.9 BHZPE--
+CAZU    0.87  83.9 IAML     03:27:45.069                                 ___         49029.3  0.24 a__ ML     5.0 BHEPE--
+CAZU    0.87  83.9 DMd      03:32:26.869                                 ___           295.7       a__ Md     4.4 BHZPE--
+SNLR    0.93   4.9 Pg       03:27:32.329   0.0                           T__                       a__            BHZPE--
+SNLR    0.93   4.9 IAML     03:27:46.359                                 ___         52890.9  0.56 a__ ML     5.1 BHNPE--
+SNLR    0.93   4.9 DMd      03:31:52.509                                 ___           260.2       a__ Md     4.3 BHZPE--
+HUB0    1.02  21.0 Pg       03:27:33.089  -0.9                           T__                       a__            BHZPE--
+HUB0    1.02  21.0 MMwp     03:27:37.970                                 ___          1833.8  4.88 a__ Mwp    4.2 BHZPE--
+HUB0    1.02  21.0 IAML     03:27:46.869                                 ___         74639.1  0.26 a__ ML     5.3 BHEPE--
+NNA0    1.12  24.5 Pg       03:27:34.410  -1.5                           T__                       a__            BHZII00
+NNA0    1.12  24.5 MMwp     03:27:39.160                                 ___          3235.6  4.75 a__ Mwp    4.4 BHZII00
+NNA0    1.12  24.5 IAmb_Lg  03:27:51.072                                 ___         34605.0  0.75 a__ mb_Lg  5.4 BHZII00
+NNA0    1.12  24.5 DMd      03:34:36.910                                 ___           422.5       a__ Md     4.8 BHZII00
+NNAP    1.11  24.5 Pg       03:27:34.430  -1.4                           T__                       a__            BHZPE--
+NNAP    1.11  24.5 MMwp     03:27:39.200                                 ___          2022.9  4.77 a__ Mwp    4.3 BHZPE--
+NNAP    1.11  24.5 IAML     03:27:51.779                                 ___         19942.1  0.61 a__ ML     4.8 BHEPE--
+NNAP    1.11  24.5 DMd      03:34:36.829                                 ___           422.4       a__ Md     4.8 BHZPE--
+PAR0    1.26 130.4 Pg       03:27:37.349  -1.2                           T__                       a__            BHZPE--
+PAR0    1.26 130.4 IAmb_Lg  03:27:56.713                                 ___           596.7  1.06 a__ mb_Lg  3.7 BHZPE--
+PAR0    1.26 130.4 DMd      03:32:13.269                                 ___           275.9       a__ Md     4.5 BHZPE--
+GUA0    1.78 123.6 Pn       03:27:44.910  -1.5                           T__                       a__            BHZPE--
+GUA0    1.78 123.6 MMwp     03:27:49.849                                 ___           565.5  4.94 a__ Mwp    4.0 BHZPE--
+GUA0    1.78 123.6 IAML     03:28:15.170                                 ___         28764.1  0.34 a__ ML     5.3 BHEPE--
+GUA0    1.78 123.6 DMd      03:35:24.990                                 ___           460.1       a__ Md     5.2 BHZPE--
+PCPA    2.17  90.9 Pn       03:27:52.210  -0.1                           T__                       a__            BHZPE--
+PCPA    2.17  90.9 IAML     03:28:25.250                                 ___          3105.4  0.94 a__ ML     4.5 BHNPE--
+PCPA    2.17  90.9 IAmb_Lg  03:28:25.353                                 ___          2355.5  0.70 a__ mb_Lg  4.6 BHZPE--
+PCPA    2.17  90.9 IVMs_BB  03:28:30.811                                 ___         11917.1  3.78 a__ Ms_BB  4.1 BHZPE--
+HYO0    2.17  63.9 Pn       03:27:53.150   1.0                           T__                       a__            BHZPE--
+HYO0    2.17  63.9 MMwp     03:28:07.450                                 ___          7163.4 14.30 a__ Mwp    4.9 BHZPE--
+HYO0    2.17  63.9 IAmb_Lg  03:28:25.807                                 ___          1559.0  0.76 a__ mb_Lg  4.4 BHZPE--
+HYO0    2.17  63.9 IAML     03:28:32.990                                 ___          1727.2  1.22 a__ ML     4.3 BHEPE--
+HYO0    2.17  63.9 IVMs_BB  03:28:36.317                                 ___          8646.8  8.30 a__ Ms_BB  4.0 BHZPE--
+YANA    2.64  26.7 Pn       03:28:01.029   2.4                           T__                       a__            BHZPE--
+YANA    2.64  26.7 MMwp     03:28:25.170                                 ___         16424.3 24.14 a__ Mwp    5.3 BHZPE--
+YANA    2.64  26.7 IVMs_BB  03:28:42.612                                 ___          4535.6  3.50 a__ Ms_BB  3.9 BHZPE--
+YANA    2.64  26.7 IAML     03:28:43.390                                 ___          2241.9  0.64 a__ ML     4.6 BHEPE--
+YANA    2.64  26.7 IAmb_Lg  03:28:44.740                                 ___           726.1  0.74 a__ mb_Lg  4.1 BHZPE--
+HMEY    3.01 344.8 Pn       03:28:04.109   0.8                           T__                       a__            BHZPE--
+HMEY    3.01 344.8 IAML     03:28:55.490                                 ___          3129.9  0.44 a__ ML     4.8 BHEPE--
+HMEY    3.01 344.8 IAmb_Lg  03:28:57.682                                 ___          1163.0  0.78 a__ mb_Lg  4.4 BHZPE--
+PACL    3.20  93.2 Pn       03:28:07.130   0.9                           ___                       a__            BHZPE--
+PACL    3.20  93.2 MMwp     03:28:13.730                                 ___          1428.0  6.60 a__ Mwp    4.5 BHZPE--
+PACL    3.20  93.2 IAmb_Lg  03:28:56.733                                 ___          1564.1  0.88 a__ mb_Lg  4.5 BHZPE--
+PACL    3.20  93.2 IAML     03:28:59.769                                 ___          4621.7  0.72 a__ ML     5.1 BHEPE--
+PACL    3.20  93.2 IVMs_BB  03:29:07.561                                 ___          8750.1  3.48 a__ Ms_BB  4.3 BHZPE--
+STPO    3.18  55.8 Pn       03:28:07.890   2.1                           T__                       a__            BHZPE--
+STPO    3.18  55.8 IAmb_Lg  03:28:57.619                                 ___          1879.5  0.72 a__ mb_Lg  4.6 BHZPE--
+STPO    3.18  55.8 IAML     03:28:59.250                                 ___         11561.9  0.42 a__ ML     5.4 BHEPE--
+ISAB    3.45 111.7 Pn       03:28:11.309   1.6                           ___                       a__            BHZPE--
+ISAB    3.45 111.7 MMwp     03:28:19.809                                 ___          2027.7  8.50 a__ Mwp    4.6 BHZPE--
+ISAB    3.45 111.7 IAML     03:29:11.509                                 ___          5341.5  0.98 a__ ML     5.2 BHEPE--
+ISAB    3.45 111.7 IAmb_Lg  03:29:11.605                                 ___          1753.4  0.74 a__ mb_Lg  4.6 BHZPE--
+ISAB    3.45 111.7 IVMs_BB  03:29:27.660                                 ___          7264.9  6.14 a__ Ms_BB  4.3 BHZPE--
+YCA0    3.77 134.6 Pn       03:28:12.250  -1.6                           ___                       a__            BHZPE--
+YCA0    3.77 134.6 MMwp     03:28:32.309                                 ___          6494.1 20.06 a__ Mwp    5.1 BHZPE--
+YCA0    3.77 134.6 IVMs_BB  03:29:15.351                                 ___          3344.4  3.74 a__ Ms_BB  4.0 BHZPE--
+YCA0    3.77 134.6 IAML     03:29:21.250                                 ___          4497.1  1.00 a__ ML     5.2 BHNPE--
+YCA0    3.77 134.6 IAmb_Lg  03:29:22.552                                 ___          3165.7  0.84 a__ mb_Lg  4.9 BHZPE--
+PBER    3.57  40.9 Pn       03:28:13.789   2.7                           T__                       a__            BHZPE--
+PBER    3.57  40.9 MMwp     03:28:23.609                                 ___          2482.0  9.82 a__ Mwp    4.7 BHZPE--
+PBER    3.57  40.9 IAML     03:29:05.349                                 ___         20007.7  0.58 a__ ML     5.8 BHNPE--
+PBER    3.57  40.9 IAmb_Lg  03:29:17.592                                 ___          3992.2  0.88 a__ mb_Lg  5.0 BHZPE--
+PBER    3.57  40.9 IVMs_BB  03:29:36.258                                 ___          6771.4  3.72 a__ Ms_BB  4.3 BHZPE--
+MNZN    3.85  14.5 Pn       03:28:17.170   2.2                           ___                       a__            BHZPE--
+MNZN    3.85  14.5 MMwp     03:28:25.529                                 ___           516.3  8.36 a__ Mwp    4.2 BHZPE--
+MNZN    3.85  14.5 IAML     03:29:14.910                                 ___          5133.0  0.38 a__ ML     5.3 BHEPE--
+MNZN    3.85  14.5 IVMs_BB  03:29:18.176                                 ___          2364.9  3.02 a__ Ms_BB  3.8 BHZPE--
+MNZN    3.85  14.5 IAmb_Lg  03:29:23.397                                 ___          1568.8  1.10 a__ mb_Lg  4.6 BHZPE--
+NVMI    3.93   3.8 Pn       03:28:19.269   2.9                           ___                       a__            BHZPE--
+NVMI    3.93   3.8 MMwp     03:28:36.250                                 ___          7327.6 16.98 a__ Mwp    5.1 BHZPE--
+NVMI    3.93   3.8 IAML     03:29:21.809                                 ___          3124.6  0.64 a__ ML     5.1 BHNPE--
+NVMI    3.93   3.8 IAmb_Lg  03:29:22.188                                 ___          2061.6  0.96 a__ mb_Lg  4.8 BHZPE--
+NVMI    3.93   3.8 IVMs_BB  03:29:24.907                                 ___          3526.6  3.26 a__ Ms_BB  4.0 BHZPE--
+YLS0    4.18 352.2 Pn       03:28:21.210   1.4                           ___                       a__            BHZPE--
+YLS0    4.18 352.2 MMwp     03:28:25.670                                 ___           184.2  4.46 a__ Mwp    3.9 BHZPE--
+YLS0    4.18 352.2 IAML     03:29:25.589                                 ___          5324.4  0.58 a__ ML     5.4 BHNPE--
+YLS0    4.18 352.2 IAmb_Lg  03:29:33.060                                 ___          1453.0  0.82 a__ mb_Lg  4.6 BHZPE--
+YLS0    4.18 352.2 IVMs_BB  03:29:54.307                                 ___          1619.1  3.04 a__ Ms_BB  3.7 BHZPE--
+MPCH    4.40  83.2 Pn       03:28:23.829   1.3                           ___                       a__            BHZPE--
+MPCH    4.40  83.2 MMwp     03:28:38.049                                 ___          4422.5 14.22 a__ Mwp    5.0 BHZPE--
+MPCH    4.40  83.2 IAML     03:29:26.970                                 ___          3650.9  0.96 a__ ML     5.3 BHNPE--
+MPCH    4.40  83.2 IAmb_Lg  03:29:32.862                                 ___          1411.3  0.92 a__ mb_Lg  4.7 BHZPE--
+SCRT    4.70 100.3 Pn       03:28:28.450   1.6                           ___                       a__            BHZPE--
+SCRT    4.70 100.3 IAML     03:29:37.390                                 ___          1435.1  1.02 a__ ML     4.9 BHEPE--
+SCRT    4.70 100.3 IAmb_Lg  03:29:40.132                                 ___          1590.7  1.12 a__ mb_Lg  4.7 BHZPE--
+SCRT    4.70 100.3 IVMs_BB  03:30:07.394                                 ___         11050.4  8.58 a__ Ms_BB  4.7 BHZPE--
+LVIC    4.70   0.2 Pn       03:28:30.109   3.1                           ___                       a__            BHZPE--
+LVIC    4.70   0.2 MMwp     03:28:33.410                                 ___           856.8  3.30 a__ Mwp    4.4 BHZPE--
+LVIC    4.70   0.2 IAML     03:29:38.289                                 ___          3883.5  0.86 a__ ML     5.3 BHEPE--
+LVIC    4.70   0.2 IAmb_Lg  03:29:51.655                                 ___          1122.9  0.82 a__ mb_Lg  4.6 BHZPE--
+LVIC    4.70   0.2 IVMs_BB  03:29:51.880                                 ___          1637.3  3.20 a__ Ms_BB  3.8 BHZPE--
+QRHC    5.13 342.7 Pn       03:28:31.789  -0.7                           T__                       a__            BHZPE--
+QRHC    5.13 342.7 IVMs_BB  03:29:43.212                                 ___          1647.3  3.92 a__ Ms_BB  3.9 BHZPE--
+QRHC    5.13 342.7 IAML     03:29:51.730                                 ___          1410.2  0.62 a__ ML     5.0 BHEPE--
+QRHC    5.13 342.7 IAmb_Lg  03:29:54.073                                 ___           975.3  0.80 a__ mb_Lg  4.6 BHZPE--
+ANDY    5.13 123.2 Pn       03:28:32.630  -0.2                           ___                       a__            BHZPE--
+ANDY    5.13 123.2 MMwp     03:28:36.609                                 ___          1600.2  3.98 a__ Mwp    4.7 BHZPE--
+ANDY    5.13 123.2 IAML     03:29:56.150                                 ___          2987.8  0.58 a__ ML     5.3 BHNPE--
+ANDY    5.13 123.2 IAmb_Lg  03:29:57.881                                 ___           671.9  0.78 a__ mb_Lg  4.4 BHZPE--
+TICA    5.10 353.5 Pn       03:28:37.009   4.7                           ___                       a__            BHZPE--
+TICA    5.10 353.5 MMwp     03:28:50.250                                 ___          4520.2 13.24 a__ Mwp    5.1 BHZPE--
+TICA    5.10 353.5 IVMs_BB  03:29:48.740                                 ___          2144.4  5.06 a__ Ms_BB  4.0 BHZPE--
+TICA    5.10 353.5 IAML     03:29:51.529                                 ___          2033.1  0.66 a__ ML     5.2 BHEPE--
+TICA    5.10 353.5 IAmb_Lg  03:30:07.409                                 ___           477.3  0.78 a__ mb_Lg  4.3 BHZPE--
+QLLH    5.27  96.0 Pn       03:28:39.490   4.7                           ___                       a__            BHZPE--
+QLLH    5.27  96.0 MMwp     03:28:45.069                                 ___          1364.5  5.58 a__ Mwp    4.7 BHZPE--
+QLLH    5.27  96.0 IAML     03:29:56.009                                 ___           654.3  1.04 a__ ML     4.7 BHEPE--
+QLLH    5.27  96.0 IAmb_Lg  03:29:58.660                                 ___           507.5  1.12 a__ mb_Lg  4.3 BHZPE--
+QLLH    5.27  96.0 IVMs_BB  03:30:36.788                                 ___          3526.6 10.54 a__ Ms_BB  4.3 BHZPE--
+BVTA    5.97   6.8 Pn       03:28:45.809   1.7                           ___                       a__            BHZPE--
+BVTA    5.97   6.8 MMwp     03:28:49.130                                 ___           216.3  3.32 a__ Mwp    4.1 BHZPE--
+BVTA    5.97   6.8 IAML     03:30:07.609                                 ___           312.8  0.60 a__ ML     4.5 BHEPE--
+BVTA    5.97   6.8 IVMs_BB  03:30:40.367                                 ___           883.5  3.32 a__ Ms_BB  3.7 BHZPE--
+BVTA    5.97   6.8 IAmb_Lg  03:30:40.650                                 ___           166.6  0.86 a__ mb_Lg  3.9 BHZPE--
+APAT    6.02  96.1 Pn       03:28:47.109   1.9                           ___                       a__            BHZPE--
+APAT    6.02  96.1 IAML     03:30:37.170                                 ___           113.2  1.20 a__ ML     4.1 BHEPE--
+APAT    6.02  96.1 IVMs_BB  03:31:04.038                                 ___          2311.9 14.42 a__ Ms_BB  4.2 BHZPE--
+QLK0    5.99 128.5 Pn       03:28:50.730   6.4                           ___                       a__            BHZPE--
+QLK0    5.99 128.5 IAML     03:30:17.130                                 ___           170.2  0.88 a__ ML     4.2 BHEPE--
+QLK0    5.99 128.5 IAmb_Lg  03:30:27.236                                 ___           115.0  0.74 a__ mb_Lg  3.7 BHZPE--
+SAB0    5.99 118.4 Pn       03:28:51.490   6.6                           ___                       a__            BHZPE--
+SAB0    5.99 118.4 IAmb_Lg  03:30:35.724                                 ___           536.4  1.01 a__ mb_Lg  4.4 BHZPE--
+SAB0    5.99 118.4 IAML     03:30:37.750                                 ___           845.7  1.20 a__ ML     4.9 BHNPE--
+GYAO    6.55 346.3 Pn       03:28:52.250  -0.1                           T__                       a__            BHZPE--
+GYAO    6.55 346.3 IAML     03:30:32.690                                 ___           996.9  0.84 a__ ML     5.1 BHEPE--
+GYAO    6.55 346.3 IVMs_BB  03:30:35.153                                 ___          1352.3  3.82 a__ Ms_BB  4.0 BHZPE--
+GYAO    6.55 346.3 IAmb_Lg  03:30:40.845                                 ___           613.6  0.72 a__ mb_Lg  4.5 BHZPE--
+CHVY    6.13 115.1 Pn       03:28:52.710   6.1                           ___                       a__            BHZPE--
+CHVY    6.13 115.1 IAML     03:30:19.890                                 ___           288.0  1.30 a__ ML     4.5 BHEPE--
+CHVY    6.13 115.1 IAmb_Lg  03:30:26.240                                 ___           199.4  1.20 a__ mb_Lg  4.0 BHZPE--
+ATH0    5.94 349.6 Pb       03:28:54.589  -4.4                           ___                       a__            BHZPE--
+CGLO    6.42 123.0 Pn       03:28:56.640   6.2                           T__                       a__            BHZPE--
+CGLO    6.42 123.0 IAML     03:30:27.559                                 ___           285.5  1.02 a__ ML     4.5 BHNPE--
+CGLO    6.42 123.0 IAmb_Lg  03:30:43.318                                 ___           227.9  1.12 a__ mb_Lg  4.1 BHZPE--
+CGLO    6.42 123.0 IVMs_BB  03:31:30.769                                 ___          1557.7  4.98 a__ Ms_BB  4.0 BHZPE--
+QNJL    6.92 356.9 Pn       03:28:57.869   0.5                           ___                       a__            BHZPE--
+QNJL    6.92 356.9 MMwp     03:29:01.549                                 ___           481.5  3.68 a__ Mwp    4.4 BHZPE--
+QNJL    6.92 356.9 IAML     03:30:32.950                                 ___          2384.6  0.74 a__ ML     5.6 BHEPE--
+QNJL    6.92 356.9 IAmb_Lg  03:31:01.314                                 ___           661.8  0.92 a__ mb_Lg  4.6 BHZPE--
+QNJL    6.92 356.9 IVMs_BB  03:31:05.665                                 ___          2248.3  4.72 a__ Ms_BB  4.3 BHZPE--
+UB10    7.02 118.8 Pn       03:29:00.619   1.6                           T__                       a__            BHZPE--
+UB10    7.02 118.8 IAML     03:30:41.119                                 ___           147.3  1.60 a__ ML     4.4 BHEPE--
+UB10    7.02 118.8 IAmb_Lg  03:30:53.469                                 ___           114.6  1.06 a__ mb_Lg  3.8 BHZPE--
+HSAL    6.81 119.7 Pn       03:29:04.039   7.9                           ___                       a__            BHZPE--
+HSAL    6.81 119.7 IAmb_Lg  03:30:55.644                                 ___           148.1  1.00 a__ mb_Lg  3.9 BHZPE--
+HSAL    6.81 119.7 IAML     03:30:58.500                                 ___           199.1  1.22 a__ ML     4.4 BHNPE--
+CHAY    7.59 101.1 Pn       03:29:08.710   2.0                           ___                       a__            BHZPE--
+CHAY    7.59 101.1 IAML     03:31:23.210                                 ___            67.8  0.68 a__ ML     4.1 BHEPE--
+CHAY    7.59 101.1 IVMs_BB  03:32:02.660                                 ___          1889.3 10.70 a__ Ms_BB  4.2 BHZPE--
+SNIG    8.01 347.8 Pn       03:29:12.170  -0.2                           ___                       a__            BHZPE--
+SNIG    8.01 347.8 IAML     03:31:34.390                                 ___          1161.7  0.88 a__ ML     5.4 BHNPE--
+SNIG    8.01 347.8 IAmb_Lg  03:31:35.334                                 ___           298.3  1.00 a__ mb_Lg  4.3 BHZPE--
+SNIG    8.01 347.8 IVMs_BB  03:32:34.844                                 ___           848.5  3.90 a__ Ms_BB  3.9 BHZPE--
+NIEV    8.38 356.2 Pn       03:29:16.509  -0.7                           ___                       a__            BHZPE--
+NIEV    8.38 356.2 IAML     03:31:03.829                                 ___          1324.7  0.70 a__ ML     5.5 BHEPE--
+NIEV    8.38 356.2 IAmb_Lg  03:31:35.326                                 ___           344.2  0.94 a__ mb_Lg  4.4 BHZPE--
+NIEV    8.38 356.2 IVMs_BB  03:32:27.346                                 ___          1586.0  4.18 a__ Ms_BB  4.2 BHZPE--
+HNAL    8.50 342.6 Pn       03:29:17.549  -1.7                           ___                       a__            BHZPE--
+HNAL    8.50 342.6 IVMs_BB  03:31:32.553                                 ___           805.4  3.06 a__ Ms_BB  4.0 BHZPE--
+HNAL    8.50 342.6 IAML     03:31:38.869                                 ___           232.9  1.18 a__ ML     4.8 BHEPE--
+HNAL    8.50 342.6 IAmb_Lg  03:31:49.248                                 ___           181.2  0.98 a__ mb_Lg  4.1 BHZPE--
+PB12    8.73 130.5 Pn       03:29:19.740  -2.3                           ___                       a__            BHZCX--
+PB12    8.73 130.5 IAML     03:31:33.839                                 ___            97.8  1.20 a__ ML     4.4 BHNCX--
+PB12    8.73 130.5 IAmb_Lg  03:31:48.418                                 ___            40.0  0.80 a__ mb_Lg  3.5 BHZCX--
+ALTO    8.65 122.6 Pn       03:29:23.099   1.7                           ___                       a__            BHZPE--
+ALTO    8.65 122.6 IAML     03:31:41.240                                 ___            89.8  1.50 a__ ML     4.4 BHNPE--
+ALTO    8.65 122.6 IAmb_Lg  03:31:56.563                                 ___            73.2  1.08 a__ mb_Lg  3.7 BHZPE--
+PB16    9.19 126.1 Pn       03:29:26.190  -2.7                           ___                       a__            BHZCX--
+PB16    9.19 126.1 IAmb_Lg  03:32:01.720                                 ___            85.2  1.00 a__ mb_Lg  3.8 BHZCX--
+CHO0    8.59 334.9 Pn       03:29:29.869   9.9                           ___                       a__            BHZPE--
+CHO0    8.59 334.9 IVMs_BB  03:31:30.757                                 ___           379.9  3.52 a__ Ms_BB  3.6 BHZPE--
+CHO0    8.59 334.9 IAML     03:31:31.549                                 ___           108.2  0.96 a__ ML     4.5 BHNPE--
+CHO0    8.59 334.9 IAmb_Lg  03:31:47.818                                 ___            62.0  0.94 a__ mb_Lg  3.7 BHZPE--
+LPAZ    9.47 111.2 Pn       03:29:38.819   6.2                           ___                       a__            BHZGT00
+LPAZ    9.47 111.2 IAmb_Lg  03:32:12.250                                 ___            17.6  0.98 a__ mb_Lg  3.2 BHZGT00
+LPAZ    9.47 111.2 IVMs_BB  03:33:26.128                                 ___          2211.3 10.40 a__ Ms_BB  4.5 BHZGT00
+OTAV   13.21 355.0 Pn       03:30:28.509   4.7                           T__                       a__            BHZIU00
+SDV    22.74  17.3 P        03:32:16.940  -1.5                           T__                       a__            BHZIU00
+SDV    22.74  17.3 IAmb     03:32:18.515                                 ___           216.5  1.05 a__ mb     5.6 BHZIU00
+SDV    22.74  17.3 IVmB_BB  03:32:17.990                                 ___          1881.6  0.90 a__ mB_BB  5.8 BHZIU00
+TOC0    4.85   9.0 IVMs_BB  03:29:41.641                                 ___          2379.8  4.04 a__ Ms_BB  4.0 BHZPE--
+TOC0    4.85   9.0 IAmb_Lg  03:29:47.809                                 ___          2929.9  0.74 a__ mb_Lg  5.0 BHZPE--
+ANDY    5.13 123.2 IVMs_BB  03:29:53.681                                 ___          3833.1  3.12 a__ Ms_BB  4.3 BHZPE--
+CAJ0    6.07 118.2 IAmb_Lg  03:30:31.947                                 ___           264.1  1.14 a__ mb_Lg  4.1 BHZPE--
+PAYA    6.03 104.2 IAmb_Lg  03:30:34.187                                 ___           313.5  0.92 a__ mb_Lg  4.2 BHZPE--
+APAT    6.02  96.1 IAmb_Lg  03:30:34.569                                 ___           125.9  1.20 a__ mb_Lg  3.8 BHZPE--
+PAYA    6.03 104.2 IVMs_BB  03:31:01.762                                 ___          1501.5 12.22 a__ Ms_BB  4.0 BHZPE--
+TOQ0    7.73 124.3 IAmb_Lg  03:31:15.116                                 ___           162.9  1.06 a__ mb_Lg  4.0 BHZPE--
+AYRA    7.50 106.6 IAmb_Lg  03:31:15.722                                 ___           120.3  1.20 a__ mb_Lg  3.9 BHZPE--
+CHAY    7.59 101.1 IAmb_Lg  03:31:21.985                                 ___            79.6  0.94 a__ mb_Lg  3.7 BHZPE--
+PTM0    7.94  87.9 IAmb_Lg  03:31:37.137                                 ___           141.4  1.04 a__ mb_Lg  4.0 BHZPE--
+PSG0    9.51 134.4 IAmb_Lg  03:32:13.056                                 ___            28.0  1.00 a__ mb_Lg  3.4 BHZCX--
+TBM0    9.88 342.3 IAmb_Lg  03:32:20.461                                 ___           276.0  0.84 a__ mb_Lg  4.4 BHZPE--
+TBM0    9.88 342.3 IVMs_BB  03:32:40.877                                 ___           258.2  3.86 a__ Ms_BB  3.6 BHZPE--
+PTM0    7.94  87.9 IVMs_BB  03:33:42.109                                 ___          1535.4  4.52 a__ Ms_BB  4.2 BHZPE--
+
+DATA_TYPE COMMENT IMS1.0
+Event      33070
+
+Error ellipse:
+                Azim Dip  Mag
+Max:             60   56   34.3000
+Intermediate:   257   32   13.0000
+Min:            162    7    8.8000
+
+Official Magnitude:
+ML 4.87 NEIC 
+
+Earthquake effects:
+  Type: Seismic
+  Flags:
+
+STOP
