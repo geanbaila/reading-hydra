@@ -63,7 +63,4 @@ for (root, dirs, files) in os.walk(input_path):
                                 else:
                                     continue
                                     # print(informacion)
-            libro.close()                
-
-# /Users/geanbaila/Sites/reading-hydra/input/2020
-# pip install XlsxWriter
+            libro.close()
